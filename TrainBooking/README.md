@@ -4,4 +4,4 @@ Technologies Used:WAMPserver
 Frontend: HTML,CSS,JAVASCRIPT
 Backend: PHP,MySQL 
 
-To deploy this web app make a database named train and three tables userdetails,trainschedule and trainsch.
+To deploy this web app make a database named train and import train.sql file in that
